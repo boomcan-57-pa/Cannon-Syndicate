@@ -1,3 +1,3 @@
 Date,Ticker,Entry,Exit,Strategy,Direction,Outcome,Tags,Return,RiskTier
 2024-01-02,AAPL,182.10,183.50,Regime Breakout,Call,Win,"Trend, Clean",0.0077,Medium
-2024-01-03,SPY,475.20,472.10,Mean Reversion,Put,Loss,FOMO,-0.0065,High
+2024-01-03,SPY,475.20,472.10,Mean Reversion,Put,Loss,"FOMO",-0.0065,High
