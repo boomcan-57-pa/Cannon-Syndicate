@@ -1,0 +1,17 @@
+{
+  "line": {
+    "color": "#C9A86A",
+    "thickness": 2.5,
+    "markers": false,
+    "gridlines": "#DDDDDD"
+  },
+  "bar": {
+    "color": "#0F1A2B",
+    "highlight": "#C9A86A"
+  },
+  "pie": {
+    "win": "#4CAF50",
+    "loss": "#F44336",
+    "neutral": "#999999"
+  }
+}

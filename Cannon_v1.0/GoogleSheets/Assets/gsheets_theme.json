@@ -1,0 +1,8 @@
+{
+  "theme": "Cannon v1.0",
+  "primary": "#0F1A2B",
+  "accent": "#C9A86A",
+  "success": "#4CAF50",
+  "warning": "#FFC107",
+  "danger": "#F44336"
+}

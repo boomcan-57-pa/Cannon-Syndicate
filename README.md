@@ -1,2 +1,3 @@
 # Cannon-Syndicate
-Investment markets stock, crypto, and more
+
+This repository contains the requested Cannon v1.0 package in `/Cannon_v1.0`.
