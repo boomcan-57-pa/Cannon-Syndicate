@@ -17,10 +17,10 @@ stream
 BT
 /F1 16 Tf
 72 760 Td
-(CANNON v1.0 ? BUILD ORDER) Tj
+(CANNON v1.0 - BUILD ORDER) Tj
 /F1 11 Tf
 72 732 Td
-(PHASE 1 ? Foundation) Tj
+(PHASE 1 - Foundation) Tj
 /F1 11 Tf
 72 714 Td
 (1. MasterSettings) Tj
@@ -29,13 +29,13 @@ BT
 (2. ControlPanel) Tj
 /F1 11 Tf
 72 678 Td
-(PHASE 2 ? Data Layer) Tj
+(PHASE 2 - Data Layer) Tj
 /F1 11 Tf
 72 660 Td
 (3. TradeLog) Tj
 /F1 11 Tf
 72 642 Td
-(PHASE 3 ? Analysis Layer) Tj
+(PHASE 3 - Analysis Layer) Tj
 /F1 11 Tf
 72 624 Td
 (4. WeeklyReview) Tj
@@ -44,7 +44,7 @@ BT
 (5. Playbook) Tj
 /F1 11 Tf
 72 588 Td
-(PHASE 4 ? Strategy Layer) Tj
+(PHASE 4 - Strategy Layer) Tj
 /F1 11 Tf
 72 570 Td
 (6. SetupEngine) Tj
@@ -53,7 +53,7 @@ BT
 (7. RiskHeatmap) Tj
 /F1 11 Tf
 72 534 Td
-(PHASE 5 ? Replay + Reporting) Tj
+(PHASE 5 - Replay + Reporting) Tj
 /F1 11 Tf
 72 516 Td
 (8. TradeReplay) Tj
@@ -62,7 +62,7 @@ BT
 (9. MonthlyReport) Tj
 /F1 11 Tf
 72 480 Td
-(PHASE 6 ? Dashboard) Tj
+(PHASE 6 - Dashboard) Tj
 /F1 11 Tf
 72 462 Td
 (10. Dashboard) Tj

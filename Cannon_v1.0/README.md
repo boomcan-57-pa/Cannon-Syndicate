@@ -17,3 +17,5 @@ This package includes:
 - Source assets
 
 See /Documentation/BuildOrder.pdf for assembly instructions.
+
+The JSON files in `/Source` are the canonical asset definitions; matching copies are mirrored into platform-specific `Assets/` folders for packaging convenience.
