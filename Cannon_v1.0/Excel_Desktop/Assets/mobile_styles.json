@@ -1,0 +1,12 @@
+{
+  "_source": "../../Source/Cannon_v1.0_MobileStyles.json",
+  "rowHeight": 52,
+  "buttonHeight": 60,
+  "buttonRadius": 12,
+  "fontSizes": {
+    "title": 22,
+    "header": 18,
+    "cell": 15,
+    "button": 20
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "_source": "../../Source/Cannon_v1.0_ColorPalette.json",
+  "theme": "Cannon v1.0",
+  "primary": "#0F1A2B",
+  "accent": "#C9A86A",
+  "success": "#1E8E3E",
+  "warning": "#FFC107",
+  "danger": "#D93025"
+}

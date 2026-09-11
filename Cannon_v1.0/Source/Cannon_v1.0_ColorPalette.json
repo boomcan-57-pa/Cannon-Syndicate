@@ -1,0 +1,19 @@
+{
+  "primary": {
+    "navy": "#0F1A2B",
+    "gold": "#C9A86A"
+  },
+  "secondary": {
+    "slate": "#2C3A4A",
+    "softGray": "#F2F2F2"
+  },
+  "risk": {
+    "low": "#4CAF50",
+    "medium": "#FFC107",
+    "high": "#F44336"
+  },
+  "outcome": {
+    "win": "#1E8E3E",
+    "loss": "#D93025"
+  }
+}
